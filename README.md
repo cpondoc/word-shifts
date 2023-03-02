@@ -2,4 +2,4 @@
 By: Christopher Pondoc, Joseph Guman, and Joseph O'Brien
 
 ## Project Description
-Investigating Word Shifts in Large Language Models
+Investigating Word Shifts in Large Language Models.
