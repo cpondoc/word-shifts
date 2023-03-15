@@ -2,3 +2,8 @@ winodict/
 weights/
 dictionary/
 .ipynb_checkpoints/
+cbt_extract/
+datasets/
+updated_cbt_extract/
+cbt_eval_info/
+cbt_adversarial/
